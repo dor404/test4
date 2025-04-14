@@ -1,0 +1,7 @@
+warning: in the working copy of 'client/src/components/Layout/Layout.tsx', LF will be replaced by CRLF the next time Git touches it
+client/src/components/Layout/Layout.tsx
+client/src/context/AuthContext.tsx
+client/src/routes.tsx
+client/src/services/authService.ts
+server/src/models/User.js
+server/src/routes/auth.js
